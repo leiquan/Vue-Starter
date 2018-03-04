@@ -1,0 +1,293 @@
+.guyu-btn, .guyu-btn:active, .guyu-btn:hover {
+    background-color: #f5fcf5 !important;
+    border: #4caf52 1px solid !important;
+    color: #4caf52 !important;
+    border-radius: 0px;
+    width: 110px;
+    height: 40px;
+    line-height: 40px;
+    padding:0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer; 
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.guyu-btn-gray, .guyu-btn-gray:active, .guyu-btn-gray:hover {
+    background-color: #fff !important;
+    border: #e4e4e4 1px solid !important;
+    color: #6d6d6d !important;
+    border-radius: 0px;
+    width: 110px;
+    height: 40px;
+    line-height: 40px;
+    padding:0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer; 
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.guyu-btn-small, .guyu-btn-small:active, .guyu-btn-small:hover {
+    background-color: #f5fcf5 !important;
+    border: #4caf52 1px solid !important;
+    color: #4caf52 !important;
+    border-radius: 0px;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    padding:0px;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor: pointer; 
+}
+
+.guyu-btn-small-gray, .guyu-btn-small-gray:active, .guyu-btn-small-gray:hover {
+    background-color: #fff !important;
+    border: #e4e4e4 1px solid !important;
+    color: #6d6d6d !important;
+    border-radius: 0px;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    padding:0px;
+    margin-right: 5px;
+    margin-left: 5px;
+    cursor: pointer; 
+}
+
+.guyu-input {
+    background-color: #f8f8f8 !important;
+    border-radius: 0px !important;
+    width: 276px !important;; 
+    height: 40px !important;
+    border: 0px !important;
+    margin: 5px;
+}
+
+.guyu-input input {
+    background-color: #f8f8f8 !important;
+    border-radius: 0px !important;
+    width: 240px !important;; 
+    height: 40px !important;
+    border: 0px !important;
+}
+
+.guyu-table table{
+    border-radius: 0px;
+}
+
+.guyu-table thead th{
+    background-color: #f2f2f2 !important;
+    border: 0px !important;
+    height: 60px !important;
+    color: #252525 !important;
+    line-height: 60px !important;
+    box-sizing: border-box !important;
+    padding: 0px !important;
+    border-radius: 0px;
+}
+
+.guyu-table .ant-table-thead > tr:first-child > th {
+    background: -webkit-linear-gradient(#f2f2f2, #f2f2f2);
+}
+
+.guyu-table tbody tr {
+    height: 68px !important;
+    color: #575757 !important;
+}
+
+.guyu-table tbody tr td{
+    padding-left: 0 !important;
+}
+
+.guyu-table tbody td a{
+    color: #4caf52;
+    /* margin-left: 5px; */
+    margin-right: 10px;
+}
+
+.guyu-table tbody td .guyu-action{
+    color: #4caf52;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 0px;
+    background-color: transparent !important;
+}
+
+.guyu-table .ant-checkbox-checked, .guyu-table .ant-checkbox-checked .ant-checkbox-inner {
+    background-color:  #4caf52 !important;
+    border: 1px solid #4caf52 !important;
+}
+
+
+.guyu-table .ant-checkbox-inner:hover{
+    border: 1px solid #4caf52 !important;
+}
+
+.guyu-table .ant-checkbox-input:focus{
+    border: 1px solid #4caf52 !important;
+}
+
+.guyu-table .ant-table-pagination{
+    border-right: 0px;
+}
+
+.guyu-table .ant-pagination-item-active{
+    background-color: #4caf52 !important;
+    border: #4caf52;
+    border-radius: 0px;
+}
+
+.guyu-table .ant-pagination-item, .guyu-table .ant-pagination-item-link{
+    border: #e3e1e2 1px solid;
+    border-radius: 0px;
+}
+
+.ant-layout-content {
+    border: 1px solid #dedede;
+    min-height: 400px;
+    height: auto;
+}
+
+.guyu-page {
+    border: 1px solid #dedede;
+    min-height: 400px;
+    height: auto;
+}
+
+
+.guyu-select {
+    background-color: #f8f8f8 !important;
+    border-radius: 0px !important;
+    width: 276px !important;; 
+    height: 40px !important;
+    border: 0px !important;
+    margin: 5px;
+}
+
+.guyu-select .ant-select-selection {
+    background-color: #f8f8f8 !important;
+    border-radius: 0px !important;
+    width: 276px !important;; 
+    height: 40px !important;
+    border: 0px !important;
+}
+
+.guyu-select .ant-select-selection__placeholder, .guyu-select .ant-select-selection__rendered {
+    background-color: #f8f8f8 !important;
+    border-radius: 0px !important;
+    width: 238px !important;; 
+    height: 38px !important;
+    line-height: 40px;
+    border: 0px !important;
+    padding: 0px;
+    margin: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    padding-left: 7px;
+}
+
+.ant-select-dropdown {
+    border-radius: 0px;
+}
+
+.ant-select-dropdown-menu-item:hover, .ant-select-dropdown-menu-item-active {
+    background-color: #4caf52;   
+}
+
+.guyu-breadcrumb {
+    height: 50px;
+    line-height: 50px;
+    font-size: 13px;
+}
+
+.guyu-breadcrumb .ant-breadcrumb-link a{
+    color: #4caf52;   
+}
+
+.ant-form-item-label {
+    margin-top: 5px;
+}
+.ant-form-item-label label{
+    height: 40px;
+    line-height: 40px;
+}
+
+.ant-menu-item:hover{
+    background-color: #4caf52;  
+}
+.ant-menu-item a:hover{
+    color: white; 
+    text-decoration: none;
+}
+
+.ant-menu-submenu-title {
+    font-size: 14px;
+    font-weight: bolder;
+    color: #212121;
+}
+.ant-menu-submenu-title:hover {
+    background-color: white !important;
+    color: #212121;
+}
+
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color:rgba(79, 176,81, 0.5) !important;   
+    border-right-color: #4caf52 !important;   
+}
+
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected  a{
+    color: white;
+}
+
+
+.ant-spin-dot i {
+    color:  #4caf52 !important;  
+    background-color: #4caf52 !important;  
+}
+
+.ant-menu-inline .ant-menu-item:after, .ant-menu-vertical .ant-menu-item:after {
+    border-right: 0px solid #4caf52;
+}
+
+.ant-form-item-control {
+    line-height: 40px;
+}
+
+.ant-form-item-label {
+    margin-top: 0px;
+}
+
+table tr span, table tr td {
+    /* padding-left: 10px !important; */
+}
+
+.ant-calendar-picker {
+    margin-left: 5px;
+}
+
+.has-error .ant-input, .has-error .ant-select-selection, .has-error .ant-upload-select-picture-card{
+    border:1px solid #d9534f !important;
+}
+
+.ant-layout.ant-layout-has-sider > .ant-layout {
+    padding-bottom: 0px !important;
+}
+
+.ant-form-item-label {
+    text-align: left;
+    padding-left: 60px;
+    box-sizing: border-box;
+}
+
+.ant-input:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.ant-upload-list-item-uploading-text {
+    display: none;
+}
